@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Vladimir
+
+## I'm workin in house maintenance 🏢🏬
+- I'm learning QA engeneer at Sukhorukov school right now 👨🏻‍🏫👨🏻‍💻
+- I love watching movies, traveling, my wife and doughter 👨‍👩‍👧 
+
 
 <!--
 **VladimirGrigoryev/VladimirGrigoryev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
