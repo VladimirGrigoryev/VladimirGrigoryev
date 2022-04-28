@@ -6,7 +6,6 @@
 
 ### Connect with me
 
-[<img align="left" alt="VladimirGrigoryev | Instagram" width="22px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
 
 
 <br />
@@ -18,7 +17,7 @@
 <br />
 <br />
 
-[instagram] https://www.instagram.com/grigoryev_vv/
+ https://www.instagram.com/grigoryev_vv/
 
 
 <!--
