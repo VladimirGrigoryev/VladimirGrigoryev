@@ -4,6 +4,22 @@
 - I'm learning QA engeneer at Sukhorukov school right now 👨🏻‍🏫👨🏻‍💻
 - I love watching movies, traveling, my wife and doughter 👨‍👩‍👧 
 
+### Connect with me
+
+[<img align="left" alt="VladimirGrigoryev | Instagram" width="22px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
+
+
+<br />
+
+
+### My favorite video
+
+
+<br />
+<br />
+
+[instagram] https://www.instagram.com/grigoryev_vv/
+
 
 <!--
 **VladimirGrigoryev/VladimirGrigoryev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
